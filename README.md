@@ -26,40 +26,16 @@ The dataset for this project can be downloaded here: https://bit.ly/SandP500Stoc
 
 ## Data Analysis
 
+#### Closing Price of Stocks
+- Convert string to date format of the **‘date’** feature
+- Extract all the names of the companies (Amazon, Apple, Google and Microsoft) and plot the graph using **pyplot** module of Python's ***matplotlib*** library
 
+<p align="center"><img width="530" alt="image" src="https://user-images.githubusercontent.com/71536311/192176573-2ec7c7a9-d8f5-42a3-ac22-6dba3a90fb4e.png"></p> 
 
 ## Tools Used
 Jupyter Notebook is used as IDE.
 Pandas and NumPy are used for Data Manipulation & Pre-processing and Mathematical functions respectively.
 For visualization of the plots, Matplotlib, Seaborn, Plotly are used.
-Geopy and Folium libraies were used to perform Spatial Analysis.
-GitHub is used as version control system
-
-
-🎉 Tasks performed under Spatial Analysis:
-Extract the "Latitude" and "Longitude" w.r.t. different Locations using Python's Geopy Library.
-Generated a "BaseMap" of Bangalore using Python's Folium Library.
-Plotted a HeatMap based of variety of Use Cases with the help of Python's Folium "HeatMap" Plugins.
-Performed "Marker Cluster Analysis" on top of the "HeatMap" using Python's Folium "FastMarkerCluster" Plugins.
-🌱 Some Exciting Glimpse of the Visuals:
-Glimpse 1 Final Glimpse 2 Final Glimpse 3
-
- 
 
 For more details, please go through the Jupyter Notebook attached above.
 
-
-## Conclusions
-"Cafe Coffee Day" is on Peak. Next, We have "Onesta", followed by "Empire Restaurant" and so on.
-"64.4%" Restaurants accepts Online Order whereas around "35.6%" Restaurants does not accepts Online Order.
-Highest Voted Restaurant is "Onesta", followed by "Truffles" and "Empire Restaurant".
-Widefield and BTM has the Maximum Number of Restaurants.
-Most of the Highest Rated Restaurants Accepts "Online Order" and they are, of course, affordable whereas there are some Highest Rated Restaurants who do not Accepts "Online Order" and they are Expensive.
-Average number of Votes for both Categories Varies because the Restaurant who's Accepting "Online Orders", get More "Votes" from Customers as there is a "Rating" window popping-up after each 'Order Place' from the "Zomato" Application. That's Why Restaurants having 'Online Order' faciliy has "Maximum Number of Votes" compared to do not ones.
-More than 50% of Restaurants having approximate cost for 2 people is less than "1000 Rs." and they are Affordable too in Bangalore.
-Around "372" Restaurants are "Affordable" as well as they have good "Rating" I.e. greater than 4 out of 5.
-"BTM", "5th Block", and "HSR" has the Most Number of Restaurants/Most Foodie Areas. "BTM" dominates the section by having around "5K" Restaurants.
-In "South-East" Bangalore Region, We have "Maximum Number of North Indian Restaurants". Again in that Zone, We might have a "Maximum Number of North Indian People".
-In "South-West" Bangalore Region, We have "Maximum Number of "South Indian Restaurants" followed by "Central" and "South-East" Bangalore.
-Now, In terms of "Biryani", in "South" Bangalore Region, We have "Maximum Number of "Biryani cuisines Restaurants" followed by "South-West" and "Central" Bangalore.
-And so many more!!
