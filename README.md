@@ -27,20 +27,20 @@ The dataset for this project can be downloaded here: https://bit.ly/SandP500Stoc
 ## Data Analysis
 
 ### Closing Price of Stocks
-- Convert string to date format of the ‘date’ feature
-- Extract the names of the companies (Amazon - AMZN, Apple - AAPL, Google - GOOG and Microsoft - MSFT) and plot the graph using ***pyplot*** module of Python's **matplotlib** library
+- Convert string to date format of the ‘date’ feature.
+- Extract the names of the companies (Amazon - AMZN, Apple - AAPL, Google - GOOG and Microsoft - MSFT) and plot the graph using ***pyplot*** module of Python's **matplotlib** library.
 
 <p align="center"><img width="530" alt="image" src="https://user-images.githubusercontent.com/71536311/192176573-2ec7c7a9-d8f5-42a3-ac22-6dba3a90fb4e.png"></p> 
 
 ### Total volume of stocks being traded each day
-- Visualized volume trading using Python graphing library **plotly**
+- Visualized volume trading using Python graphing library **plotly**.
 
 <p align="center"><img width="710" alt="image" src="https://user-images.githubusercontent.com/71536311/192260841-81bf6889-5f87-4aa1-82ad-3e2717a54335.png"></p> 
 <p align="center"><img width="676" alt="image" src="https://user-images.githubusercontent.com/71536311/192274806-1975d653-dc4a-443e-8d17-a9bc8fae1192.png"></p> 
 
 ### Daily Returns
-- Calculate the daily return by subtracting the open price from the close price and dividing it by 100
-- Plotted the daily returns graph using **plotly**
+- Calculate the daily return by subtracting the open price from the close price and dividing it by 100.
+- Plotted the daily returns graph using **plotly**.
 
 <p align="center"><img width="443" alt="image" src="https://user-images.githubusercontent.com/71536311/192282101-931138c9-79bb-40fa-8b92-0166177fe9ae.png"></p>
 
@@ -55,7 +55,7 @@ The dataset for this project can be downloaded here: https://bit.ly/SandP500Stoc
 <p align="center"><img width="386" alt="image" src="https://user-images.githubusercontent.com/71536311/192428488-2b38548e-8b35-427a-b1a0-b417a517758b.png"></p> 
 
 ### Risk Analysis
-- Analyse the risk by interpreting which range takes the most of the data points
+- Analyse the risk by interpreting which range takes the most of the data points.
 
 <p align="center"><img width="274" alt="image" src="https://user-images.githubusercontent.com/71536311/192429097-cf93ab38-a738-44ed-b84e-51e2678d7e6b.png"></p> 
 
