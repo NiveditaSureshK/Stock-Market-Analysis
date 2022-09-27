@@ -1,7 +1,7 @@
 # Stock-Market-Analysis
 
 ## Problem Statement
-The following factors need to be examined in order to conduct an analysis:
+Observations on the following are made
 1. Closing Price of Stocks 
 2. Total volume of stocks being traded each day
 3. Daily Returns
