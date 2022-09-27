@@ -24,7 +24,7 @@ The dataset for this project can be downloaded here: https://bit.ly/SandP500Stoc
     - **Volume** - number of shares traded
     - **Name** - the stock's ticker name
 
-## Data Analysis
+## Data Analysis Using Python
 
 ### Closing Price of Stocks
 - Convert string to date format of the ‘date’ feature.
