@@ -69,3 +69,11 @@ The dataset for this project can be downloaded here: https://bit.ly/SandP500Stoc
 
 For more details, please go through the Jupyter Notebook attached above.
 
+## Conclusion
+
+- Amazon has the highest closing price out of the four companies.
+- In 2014, Apple had a maximum volume trade of more than 250 million.
+- Compared to previous years, 2018 closed with the highest price.
+- The closing prices of Amazon and Microsoft are nearly the same.
+-  99.7% of all Apple data falls within the third standard deviation, which ranges from -3.5 to 3.5.
+
