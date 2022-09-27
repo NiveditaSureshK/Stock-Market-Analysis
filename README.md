@@ -55,7 +55,7 @@ The dataset for this project can be downloaded here: https://bit.ly/SandP500Stoc
 <p align="center"><img width="386" alt="image" src="https://user-images.githubusercontent.com/71536311/192428488-2b38548e-8b35-427a-b1a0-b417a517758b.png"></p> 
 
 ### Risk Analysis
-- Analyse the risk by interpreting which range takes the most of the data points.
+- Interpret the range that contains the majority of the data points to analyze the risk.
 
 <p align="center"><img width="274" alt="image" src="https://user-images.githubusercontent.com/71536311/192429097-cf93ab38-a738-44ed-b84e-51e2678d7e6b.png"></p> 
 
