@@ -18,7 +18,7 @@ The dataset for this project can be downloaded here: https://bit.ly/SandP500Stoc
 
 - The dataset has the following columns:
     - **Date** - in format: yy-mm-dd
-    - **Open** - price of the stock at market open (this is NYSE data so all in USD)
+    - **Open** - price of the stock at market open (considering that this is NYSE data, all prices are in USD)
     - **High** - highest price reached in the day
     - **Low Close** - lowest price reached in the day
     - **Volume** - number of shares traded
