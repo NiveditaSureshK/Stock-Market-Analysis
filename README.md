@@ -28,12 +28,12 @@ The dataset for this project can be downloaded here: https://bit.ly/SandP500Stoc
 
 ### Closing Price of Stocks
 - Convert string to date format of the ‘date’ feature.
-- Extract the names of the companies (Amazon - AMZN, Apple - AAPL, Google - GOOG and Microsoft - MSFT) and plot the graph using **pyplot** module of Python's **matplotlib** library.
+- Extract the names of the companies (Amazon - AMZN, Apple - AAPL, Google - GOOG and Microsoft - MSFT) and plot the graph using **pyplot module** of **Python's matplotlib library**.
 
 <p align="center"><img width="530" alt="image" src="https://user-images.githubusercontent.com/71536311/192176573-2ec7c7a9-d8f5-42a3-ac22-6dba3a90fb4e.png"></p> 
 
 ### Total volume of stocks being traded each day
-- Visualized volume trading using Python graphing library **plotly**.
+- Visualized volume trading using **Python graphing library plotly**.
 
 <p align="center"><img width="710" alt="image" src="https://user-images.githubusercontent.com/71536311/192260841-81bf6889-5f87-4aa1-82ad-3e2717a54335.png"></p> 
 <p align="center"><img width="676" alt="image" src="https://user-images.githubusercontent.com/71536311/192274806-1975d653-dc4a-443e-8d17-a9bc8fae1192.png"></p> 
@@ -50,7 +50,7 @@ The dataset for this project can be downloaded here: https://bit.ly/SandP500Stoc
 <p align="center"><img width="332" alt="image" src="https://user-images.githubusercontent.com/71536311/192428389-1aed6be9-4d54-46e0-8e2c-607997a42e99.png"></p> 
 
 
-- To illustrate the relationship between companies with respect to closing price, use the **seaborn** library and plot a **pairplot** or **heatmap** for describing the relationship.
+- To illustrate the relationship between companies with respect to closing price, use the **seaborn library** and plot a **pairplot** or **heatmap** for describing the relationship.
 
 <p align="center"><img width="386" alt="image" src="https://user-images.githubusercontent.com/71536311/192428488-2b38548e-8b35-427a-b1a0-b417a517758b.png"></p> 
 
@@ -72,7 +72,7 @@ For more details, please go through the Jupyter Notebook attached above.
 ## Conclusion
 
 - ***Amazon*** has the highest closing price out of the four companies.
-- ***n 2014, Apple*** had a maximum volume trade of more than 250 million.
+- ***In 2014, Apple*** had a maximum volume trade of more than 250 million.
 - Compared to previous years, ***2018*** closed with the highest price.
 - The ***closing prices of Amazon and Microsoft are nearly the same***.
 -  ***99.7% of all Apple data falls within the third standard deviation***, which ranges from -3.5 to 3.5.
